@@ -9,30 +9,4 @@ def sort_array_desc(array)
   end
 end
 
-def sort_array_asc
 
-end
-
-def sort_array_asc
-
-end
-
-def sort_array_asc
-
-end
-
-def sort_array_asc
-
-end
-
-def sort_array_asc
-
-end
-
-def sort_array_asc
-
-end
-
-def sort_array_asc
-
-end
