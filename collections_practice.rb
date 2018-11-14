@@ -41,11 +41,12 @@ def sum_array(array)
     sum+=num
   end
   sum
-end 
+end
 
 def add_s(array)
   array.each_with_index.collect do |element, index|
     if index != 1
       element = element + "s"
     end
+  end
 end
